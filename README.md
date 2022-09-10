@@ -1,6 +1,22 @@
-### Hi there 👋
+<div align="center" style="text-align:center">
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=laurianvm&show_icons=true&theme=react">
+</a>
+<div align="center" style="text-align:center">
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurianvm&layout=compact&theme=react">
+</a>
+</div>
+
 
 <!--
+</div>
+<div align="center" style="text-align:center">
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laurianvm&theme=react&layout=compact&include_private=true">
+</a>
+</div>
+
 **laurianvm/laurianvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
